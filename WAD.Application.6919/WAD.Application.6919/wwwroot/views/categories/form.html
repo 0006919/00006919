@@ -1,0 +1,16 @@
+﻿<div>
+    <h1>{{action}}</h1>
+
+    <form>
+        <div>
+            <label for="Name">Name: </label>
+
+            <input type="hidden" name="actionId" ng-model="actionId" value="{{actionId}}"/>
+            <input type="hidden" name="Id" ng-value="{{pass_id}}" ng-model="category.Id" />
+
+            <input type="text" name="Name" ng-model="category.Name" value="{{categoryName}}" placeholder="{{categoryName}}"/>
+            <button class="btn btn-success" ng-click="send_form(actionId, category)">Save</button>
+        </div>
+    </form>
+
+</div>

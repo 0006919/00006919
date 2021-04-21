@@ -1,0 +1,62 @@
+﻿<div>
+    <h1>{{action}}</h1>
+
+    <form>
+        <div>
+            <input type="hidden" name="actionId" ng-model="actionId" value="{{actionId}}" />
+            <input type="hidden" name="Id" ng-value="{{pass_id}}" ng-model="product.Id" />
+            
+            <table>
+                <tr>
+                    <td>
+                        <label for="Name">Name: </label>
+                    </td>
+                    <td>
+                        <input type="text" name="Name" ng-model="product.Name" value="{{productName}}" placeholder="{{productName}}" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="Name">Category: </label>
+                    </td>
+                    <td>
+
+                        <select id="Category" name="Category" ng-model="product.CategoryId">
+                            <option ng:repeat="category in categories" value="{{category.id}}">
+                                {{category.name}}
+                            </option>
+                        </select>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="Name">Price: </label>
+                    </td>
+                    <td>
+                        <input type="number" name="Price" ng-model="product.Price" value="{{productPrice}}" placeholder="{{productPrice}}" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="Name">Description: </label>
+                    </td>
+                    <td>
+                        <textarea style="width: 100%;" name="Description" ng-model="product.Description" value="{{productDescription}}" placeholder="{{productDescription}}"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <button style="float: right;" class="btn btn-success" ng-click="send_form(actionId, product)">Save</button>
+                    </td>
+                </tr>
+            </table>
+            
+           
+
+            
+        </div>
+    </form>
+
+</div>

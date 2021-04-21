@@ -18,7 +18,6 @@ D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6
 D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\WAD.Application.6919\obj\Debug\netcoreapp3.1\WAD.Application.6919.TagHelpers.output.cache
 D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\WAD.Application.6919\obj\Debug\netcoreapp3.1\WAD.Application.6919.RazorCoreGenerate.cache
 D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\WAD.Application.6919\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\WAD.Application.6919\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\WAD.Application.6919\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\WAD.Application.6919\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\WAD.Application.6919\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
