@@ -1,0 +1,12 @@
+D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+D:\wiutpg\WAD-2020-2021\WAD.6919\WAD.Application.6919\00006919\WAD.Application.6919\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
